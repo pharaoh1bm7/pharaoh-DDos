@@ -10,5 +10,10 @@ python pharaoh-DDos.py
 
 
 ip target:
+
+
 port:
+
+
+
 time: 1000
